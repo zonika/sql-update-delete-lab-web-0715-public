@@ -1,8 +1,4 @@
----
-tags: sql, update, delete, introductory, micro
-languages: sql
-resources: 
----
+
 
 # SQL Update and Delete Lab
 
